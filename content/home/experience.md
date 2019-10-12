@@ -1,44 +1,78 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/wip/`.
+
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
 
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+[content]
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "publication"
 
-  * Analysing
-  * Modelling
-  * Deploying
-    """
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  # Choose how many pages you would like to offset by
+  offset = 0
 
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
+
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 1
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+
+ # CSS class.
+ css_class = ""
 +++
+
+**Teaching assistant, Stockholm School of Economics**
+
+- Finance II: Corporate Finance. Course director: Ramin Baghai,  (2015-2019)
+- International Financial Management. Course director: Mariassunta Giannetti  (2018)   
+- Entrepreneurial Finance and Venture Capital. Course director: Daniel Metzger (2016)
+
+**KPMG advisory** Financial Risk Management Consultant, Milan, Italy (2013-2014)
+
+**Mediobanca Spa** Capital Market Division Intern, Milan, Italy (2011)

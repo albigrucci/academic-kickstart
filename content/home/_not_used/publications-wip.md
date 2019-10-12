@@ -1,13 +1,13 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent blog posts from `content/wip/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = false # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-title = "Working papers"
+title = "Work in progress"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -39,7 +39,6 @@ subtitle = ""
   view = 1
 
 [design.background]
-
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -53,7 +52,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # #image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -67,4 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
+Zombie restructuring (joint with Bo Becker and Per Strömberg)
+
+Public debt markets and real effects of credit supply shocks: evidence from Europe
 
