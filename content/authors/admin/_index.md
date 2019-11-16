@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:alberto.allegrucci@phdstudent.hhs.se'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/albigrucci
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/albigrucci
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -64,6 +64,8 @@ email: ""
 #- Visitors
 ---
 
-Welcome! I'm a PhD candidate in Finance at the Stockholm School of Economics and Swedish House of Finance. My research interests include corporate finance, mutual funds, credit markets and governance. I like working with different data and retrieving new datasets. I have a growing interest in machine learning applications to financial economics.
+Welcome! I'm a PhD candidate in Finance at the Stockholm School of Economics. My research interests include corporate finance, mutual funds, credit markets and governance. 
+
+I am on the job market in 2019-2020, and will be available for interviews at the European Job Market in Rotterdam and the ASSA meetings in San Diego.
 
  

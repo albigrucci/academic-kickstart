@@ -88,7 +88,7 @@ function toggle() {
 <a  style="color: #353535" onclick="toggle()" id="ab"><u>Show Abstract</u></a>
 <div id="text" style="display:none">The same fund family may sponsor both passive and active funds. Due to the funds’ different fee structures and flow sensitivity to performance, this may create conflicts of interest at the fund family level. Using portfolio firms’ mergers and acquisitions as a laboratory, I show that fund families actively take measures to improve the performance of their active funds at the expense of their passive funds. When the family’s active funds have a large stake in the acquirer, the passive fund owners of the target are less likely to support takeover deals that benefit target shareholders. I do not find evidence that takeover outcomes are affected by passive funds behavior. Consistent with family profit motives driving fund performance, I observe differences in flow to performance sensitivity between active and passive funds. The evidence suggests that fund families may take measures to boost their active funds’ performance at the expenses of their passive funds. The distribution between the two types of funds matters, with possible implications for governance and common ownership.</div>
 <br> 
-**Cost of information acquisition and board independence: evidence from a change in accounting standard** 
+**Cost of information acquisition and board independence: evidence from a change in accounting standard** [PDF coming soon!]
 <br> <br> 
 <h3>**Work in progress:**</h3>
 <br>
