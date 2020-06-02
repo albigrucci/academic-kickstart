@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in finance
+role: PhD candidate in Finance
 # Organizations/Affiliations
 organizations:
 - name: Stockholm School of Economics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include corporate finance, mutual funds, credit markets and governance
+bio: My research interests include corporate finance in a broad sense, financial 
 
 interests:
-- Corporate finance
+- Empirical Corporate Finance
 - Mutual Funds
-- Credit markets
-- Governance
+- Credit Markets
+- Causal Inference and Machine Learning applied to Economics and Finance
 
 education:
   courses:
@@ -67,10 +67,8 @@ email: ""
 #- Visitors
 ---
 
-Welcome! I'm a PhD candidate in Finance at the Stockholm School of Economics. My research interests lie in empirical corporate finance in a broad sense and I enjoy working with large and new datasets to answer interesting questions that are policy-relevant. I have an interest in data science as well, which I have developed further through using Python and SQL for my research projects. 
+Welcome! I'm a PhD candidate in Finance at the Stockholm School of Economics. My research interests lie in empirical corporate finance in a broad sense and I enjoy working with large and new datasets to answer interesting questions that are policy-relevant. I also have an interest in causal inference, machine learning applied to Economics and Finance  and data science, which I have developed further by using Python, R and SQL for my research projects. 
 
-My Job Market Paper looks at conflicts of interests between mutual fund families and passive funds sponsored by them. I also investigated the corporate governance issue of informational disadvantage of independent directors; and, moreover, how access to bond markets may improve firms’ prospects during a crisis. 
-
-I am on the job market in 2019-2020, and will be available for interviews at the European Job Market in Rotterdam and the ASSA meetings in San Diego.
+My Job Market Paper examines conflicts of interests between mutual fund families and passive funds sponsored by them. I also investigated the corporate governance issue of informational disadvantage of independent directors; and, moreover, how access to bond markets may improve firms’ prospects during a bank crisis. 
 
  

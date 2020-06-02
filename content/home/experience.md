@@ -73,6 +73,6 @@ subtitle = ""
 - International Financial Management. Course director: Mariassunta Giannetti  (2018)   
 - Entrepreneurial Finance and Venture Capital. Course director: Daniel Metzger (2016)
 
-**KPMG advisory** Financial Risk Management Consultant, Milan, Italy (2013-2014)
+**KPMG advisory Spa** Financial Risk Management Consultant, Milan, Italy (2013-2014)
 
 **Mediobanca Spa** Capital Market Division Intern, Milan, Italy (2011)
