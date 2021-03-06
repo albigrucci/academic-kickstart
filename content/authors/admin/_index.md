@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Finance
+role: Senior Research Analyst, Global Research & Design
 # Organizations/Affiliations
 organizations:
-- name: Stockholm School of Economics
+- name: S&P Dow Jones Indices
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include corporate finance in a broad sense, financial 
+bio: 
 
 interests:
 - Empirical Corporate Finance
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Finance
     institution: Stockholm School of Economics
-    year: 2020 (Expected) 
+    year: 2020 
   - course: MSc in Finance
     institution: Bocconi University
     year: 2012
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alberto.allegrucci@phdstudent.hhs.se'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:alberto.allegrucci@spglobal.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/albigrucci
@@ -67,8 +67,16 @@ email: ""
 #- Visitors
 ---
 
-Welcome! I'm a PhD candidate in Finance at the Stockholm School of Economics. My research interests lie in empirical corporate finance in a broad sense and I enjoy working with large and new datasets to answer interesting questions that are policy-relevant. I also have an interest in causal inference, machine learning applied to Economics and Finance  and data science, which I have developed further by using Python, R and SQL for my research projects. 
+Welcome! I'm a researcher in finance specialized in empirical finance and causal inference. Currently, I work as Senior Research Analyst at S&P Dow Jones Indices where I provide research on global index strategies across all asset classes, and I'm responsible for the conceptualization, design and back-test of new index products. I researched my PhD (in Finance) at the Stockholm School of Economics and graduated in September 2020 with a dissertation in empirical corporate finance.
 
-My Job Market Paper examines conflicts of interests between mutual fund families and passive funds sponsored by them. I also investigated the corporate governance issue of informational disadvantage of independent directors; and, moreover, how access to bond markets may improve firms’ prospects during a bank crisis. 
+My research interests lie in empirical corporate finance in a broad sense, and I enjoy working with new datasets to answer interesting questions that are policy-relevant. I also have an interest in causal inference, machine learning applied to economics and finance and data science, and extensive experience in working with large financial datasets, Python programming (main libraries: Pandas, NumPy, Scikit-Learn), STATA and Latex.
+
+My research examines conflicts of interests between mutual fund families and passive funds sponsored by them. I also investigated the corporate governance issue of informational disadvantage of independent directors; and, moreover, how access to bond markets may improve firms’ prospects during a bank crisis. 
+
+
+
+
+
+
 
  

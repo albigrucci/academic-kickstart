@@ -67,12 +67,13 @@ subtitle = ""
  css_class = ""
 +++
 
-**Teaching assistant, Stockholm School of Economics**
+**S&P Dow Jones Indices** Senior Research Analyst, Global Research & Design, London (2020-Present)
 
-- Finance II: Corporate Finance. Course director: Ramin Baghai,  (2015-2019)
-- International Financial Management. Course director: Mariassunta Giannetti  (2018)   
-- Entrepreneurial Finance and Venture Capital. Course director: Daniel Metzger (2016)
+**Stockholm School of Economics** 
 
-**KPMG Advisory Spa** Financial Risk Management Consultant, Milan, Italy (2013-2014)
+- Researcher - PhD Candidate in Finance (2014-2020)
+- Teaching assistant (2015-2020)
 
-**Mediobanca Spa** Capital Market Division Intern, Milan, Italy (2011)
+**KPMG Advisory Spa** Financial Risk Management Consultant, Milan (2013-2014)
+
+**Mediobanca Spa** Capital Market Division Intern, Milan (2011)
