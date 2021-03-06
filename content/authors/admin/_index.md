@@ -67,11 +67,13 @@ email: ""
 #- Visitors
 ---
 
-Welcome! I'm a researcher in finance specialized in empirical finance and causal inference. Currently, I work as Senior Research Analyst at S&P Dow Jones Indices where I provide research on global index strategies across all asset classes, and I'm responsible for the conceptualization, design and back-test of new index products. I researched my PhD (in Finance) at the Stockholm School of Economics and graduated in September 2020 with a dissertation in empirical corporate finance.
+Welcome! 
+
+I'm a finance researcher specialized in empirical finance and causal inference. Currently, I work as Senior Research Analyst at S&P Dow Jones Indices where I provide research on global index strategies across all asset classes, and I'm responsible for the conceptualization, design and back-test of new index products. I researched my PhD (in Finance) at the Stockholm School of Economics and graduated in September 2020 with a dissertation in empirical corporate finance.
 
 My research interests lie in empirical corporate finance in a broad sense, and I enjoy working with new datasets to answer interesting questions that are policy-relevant. I also have an interest in causal inference, machine learning applied to economics and finance and data science, and extensive experience in working with large financial datasets, Python programming (main libraries: Pandas, NumPy, Scikit-Learn), STATA and Latex.
 
-My research examines conflicts of interests between mutual fund families and passive funds sponsored by them. I also investigated the corporate governance issue of informational disadvantage of independent directors; and, moreover, how access to bond markets may improve firms’ prospects during a bank crisis. 
+
 
 
 
